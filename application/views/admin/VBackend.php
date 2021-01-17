@@ -157,11 +157,6 @@
     <!-- Material Dashboard DEMO methods, don't include it in your project! -->
     <script src="<?= site_url('asset/backend/assets/demo/demo.js'); ?>"></script>
     <script src="<?= site_url('asset/backend/assets/js/script.js'); ?>"></script>
-    <script>
-        $(document).ready( function () {
-            $('#table_id').DataTable();
-        });
-    </script>
 </body>
 
 </html>

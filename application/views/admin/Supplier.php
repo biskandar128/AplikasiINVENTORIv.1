@@ -39,7 +39,7 @@
                     </div>
                     <div class="card-body table-responsive">
                         <table class="table table-hover">
-                            <thead class="text-primary" id="table_id">
+                            <thead class="text-primary">
                                 <th>ID</th>
                                 <th>Nama</th>
                                 <th>Alamat</th>

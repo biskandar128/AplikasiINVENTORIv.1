@@ -30,7 +30,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="card">
                     <div class="card-header card-header-warning">
-                        <h4 class="card-title">Data Barang Masuk<a href="<?= site_url('petugas/cetakBarangMasuk'); ?>" class="btn btn-info float-right">Cetak Laporan</a><button type="button" data-toggle="modal" data-target="#modalSupplier" class="btn btn-rose float-right">Tambah Data</button></h4>
+                        <h4 class="card-title">Data Barang Masuk<a href="<?= site_url('petugas/printBarangMasuk'); ?>" class="btn btn-info float-right">Cetak Laporan</a><button type="button" data-toggle="modal" data-target="#modalSupplier" class="btn btn-rose float-right">Tambah Data</button></h4>
                         <p class="card-category">
                             Daftar barang masuk dalam gudang
                         </p>
